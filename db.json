@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "area": "Finance",
+      "vehicle": { "type": "car", "plateNumber": "ABC-123", "color": "Red" }
+    }
+  ]
+}
