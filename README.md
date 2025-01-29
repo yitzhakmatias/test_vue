@@ -6,9 +6,14 @@ yarn install
 ```
 
 ### Compiles and hot-reloads for development
+First run services and after serve in cmd
 ```
+yan services
 yarn serve
 ```
+
+The app is running on http://localhost:8080/
+
 
 ### Compiles and minifies for production
 ```
